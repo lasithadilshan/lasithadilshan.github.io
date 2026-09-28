@@ -181,7 +181,7 @@ Lasitha is an AI Engineer with 5 years of industry experience specializing in:
 --------------------------------------------------
 • Email: dilshantilakaratne29@gmail.com
 • Phone: +94 77 313 0036 (Colombo, Sri Lanka)
-• LinkedIn: linkedin.com/in/lasithat-3027ab120
+• LinkedIn: linkedin.com/in/lasitha-thilakarathna-3027ab120
 • GitHub: github.com/lasithadilshan
 • Availability: Open to AI Engineering & GenAI Innovation collaborations.`
   };

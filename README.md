@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://lasithadilshan.github.io/"><img src="https://img.shields.io/badge/Live_Portfolio-lasithadilshan.github.io-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>
-  <a href="https://linkedin.com/in/lasithat-3027ab120"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/lasitha-thilakarathna-3027ab120/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dilshantilakaratne29@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Experience-5+_Years-10B981?style=for-the-badge" alt="Experience" />
   <img src="https://img.shields.io/badge/Location-Colombo,_Sri_Lanka-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
@@ -189,7 +189,7 @@ The live portfolio website is hosted on GitHub Pages: **[lasithadilshan.github.i
 ## 📬 Get in Touch
 
 - 🌐 **Portfolio**: [lasithadilshan.github.io](https://lasithadilshan.github.io/)
-- 💼 **LinkedIn**: [linkedin.com/in/lasithat-3027ab120](https://linkedin.com/in/lasithat-3027ab120)
+- 💼 **LinkedIn**: [linkedin.com/in/lasitha-thilakarathna-3027ab120](https://www.linkedin.com/in/lasitha-thilakarathna-3027ab120/)
 - 🐙 **GitHub**: [github.com/lasithadilshan](https://github.com/lasithadilshan)
 - 📧 **Email**: [dilshantilakaratne29@gmail.com](mailto:dilshantilakaratne29@gmail.com)
 - 📱 **Phone**: +94 77 313 0036 (Colombo, Sri Lanka)
